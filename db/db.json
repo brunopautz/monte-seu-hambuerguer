@@ -78,5 +78,27 @@
     }
   ],
   "burgers": [
+    {
+      "nome": "Bruno Pautz",
+      "carne": "Maminha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Cheddar",
+        "Salame",
+        "Bacon"
+      ],
+      "status": "Soliciado",
+      "id": 1
+    },
+    {
+      "nome": "Joaozinho",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Tomate"
+      ],
+      "status": "Soliciado",
+      "id": 2
+    }
   ]
 }
